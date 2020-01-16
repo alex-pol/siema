@@ -1,6 +1,6 @@
 {
-  "name": "siema",
-  "version": "1.5.1",
+  "name": "siema-mod",
+  "version": "1.5.2",
   "description": "Lightweight and simple carousel with no dependencies",
   "main": "dist/siema.min.js",
   "devDependencies": {
@@ -20,13 +20,8 @@
   "files": [
     "dist"
   ],
-  "repository": "pawelgrzybek/siema",
-  "author": "Pawel Grzybek <grzybecki@gmail.com> (https://pawelgrzybek.com/)",
+  "repository": "alex-pol/siema",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pawelgrzybek/siema/issues"
-  },
-  "homepage": "https://pawelgrzybek.com/siema",
   "keywords": [
     "slider",
     "carousel",

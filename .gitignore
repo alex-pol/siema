@@ -4,3 +4,4 @@ node_modules
 docs/_site
 .idea/
 .vscode/
+.history
